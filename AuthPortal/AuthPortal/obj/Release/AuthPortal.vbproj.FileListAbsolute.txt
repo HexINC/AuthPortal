@@ -1,0 +1,9 @@
+C:\Users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\bin\Release\AuthPortal.exe.config
+C:\Users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\bin\Release\AuthPortal.exe
+C:\Users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\bin\Release\AuthPortal.pdb
+C:\Users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\bin\Release\AuthPortal.xml
+C:\Users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\obj\Release\AuthPortal.Resources.resources
+C:\Users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\obj\Release\AuthPortal.vbproj.GenerateResource.Cache
+C:\Users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\obj\Release\AuthPortal.exe
+C:\Users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\obj\Release\AuthPortal.xml
+C:\Users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\obj\Release\AuthPortal.pdb

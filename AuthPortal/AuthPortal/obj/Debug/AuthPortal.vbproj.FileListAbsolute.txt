@@ -1,0 +1,20 @@
+c:\users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\bin\Debug\AuthPortal.exe.config
+c:\users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\bin\Debug\AuthPortal.exe
+c:\users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\bin\Debug\AuthPortal.pdb
+c:\users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\bin\Debug\AuthPortal.xml
+c:\users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\obj\Debug\AuthPortal.Resources.resources
+c:\users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\obj\Debug\AuthPortal.vbproj.GenerateResource.Cache
+c:\users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\obj\Debug\AuthPortal.exe
+c:\users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\obj\Debug\AuthPortal.xml
+c:\users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\obj\Debug\AuthPortal.pdb
+C:\Users\jack\documents\visual studio 2013\Projects\AuthPortal\AuthPortal\obj\Debug\AuthPortal.vbprojResolveAssemblyReference.cache
+C:\Users\jack\Desktop\AuthPortal\AuthPortal\bin\Debug\AuthPortal.exe.config
+C:\Users\jack\Desktop\AuthPortal\AuthPortal\obj\Debug\AuthPortal.exe
+C:\Users\jack\Desktop\AuthPortal\AuthPortal\obj\Debug\AuthPortal.xml
+C:\Users\jack\Desktop\AuthPortal\AuthPortal\obj\Debug\AuthPortal.pdb
+C:\Users\jack\Desktop\AuthPortal\AuthPortal\bin\Debug\AuthPortal.exe
+C:\Users\jack\Desktop\AuthPortal\AuthPortal\bin\Debug\AuthPortal.pdb
+C:\Users\jack\Desktop\AuthPortal\AuthPortal\bin\Debug\AuthPortal.xml
+C:\Users\jack\Desktop\AuthPortal\AuthPortal\obj\Debug\AuthPortal.vbprojResolveAssemblyReference.cache
+C:\Users\jack\Desktop\AuthPortal\AuthPortal\obj\Debug\AuthPortal.Resources.resources
+C:\Users\jack\Desktop\AuthPortal\AuthPortal\obj\Debug\AuthPortal.vbproj.GenerateResource.Cache
